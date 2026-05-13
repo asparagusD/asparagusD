@@ -54,7 +54,7 @@ The goal: bridge the gap between RTL intent and what the synthesiser actually se
 ## 📊 Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asparagusD&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asparagusD&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asparagusD&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
@@ -66,8 +66,8 @@ The goal: bridge the gap between RTL intent and what the synthesiser actually se
 
 I'm always up for a conversation about AI × hardware, open-source EDA, or agentic systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naufel-rahman-60979632a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aurnobnaufel038@gmail.com)
 
 ---
 
