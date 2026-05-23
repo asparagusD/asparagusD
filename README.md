@@ -1,21 +1,10 @@
 # Hi, I'm Naufel 👋
 
-> *Building AI agents that understand silicon — from RTL to GDS.*
 
 I'm an engineer and researcher at the intersection of **large language models** and **VLSI/chip design automation**. My focus is on making EDA workflows smarter: catching bugs earlier, explaining synthesis decisions, and reducing the feedback loop between RTL intent and physical implementation.
 
 ---
 
-## 🔭 What I'm Building
-
-### RTL Intelligence Agent
-An AI-powered tool for analysing RTL code at the AST level, combining:
-- **Antipattern detection** — static analysis of Verilog/SystemVerilog via Yosys AST to flag latches, unintended combinational loops, clock-domain crossings, and other synthesis hazards
-- **Synthesis advisor** — LLM-based explanation of synthesis decisions, area/timing trade-offs, and targeted remediation suggestions
-
-The goal: bridge the gap between RTL intent and what the synthesiser actually sees.
-
----
 
 ## 🛠 Tech Stack
 
@@ -51,16 +40,6 @@ The goal: bridge the gap between RTL intent and what the synthesiser actually se
 
 ---
 
-## 📊 Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asparagusD&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asparagusD&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asparagusD&theme=github-compact&hide_border=true&area=true)
-
----
 
 ## 📫 Get in Touch
 
@@ -71,4 +50,3 @@ I'm always up for a conversation about AI × hardware, open-source EDA, or agent
 
 ---
 
-<sub>*"The best bug is the one caught at RTL, not at tapeout."*</sub>
